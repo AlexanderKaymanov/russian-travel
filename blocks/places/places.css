@@ -1,9 +1,10 @@
 .places{
   max-width: 984px;
   min-height: 660px;
-  display: grid;
+  /* display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(1, 1fr);
+  grid-auto-rows: 1fr; */
   margin: auto;
   padding-top: 92px;
   color: #FFFFFF;
