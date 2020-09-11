@@ -5,6 +5,16 @@
   font-size: 72px;
   line-height: 106%;
   text-align: center;
+  text-decoration-line: none;
   margin: 0 auto;
   color: #fff;
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .cover__title {
+    max-width: 288px;
+    min-height: 70px;
+    font-size: 32px;
+    line-height: 109%;
+  }
 }
