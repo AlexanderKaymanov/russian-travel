@@ -14,7 +14,7 @@
 
 Файловая структура проекта создана по правилам Nested БЭМ. В проекте применены основные технологии адаптивной верстки Flex, Grid и медиа запросы под разрешения экранов мобильных и десктопных устройств: 320px, 768px, 1024px, 1280px и выше.
 
-* [Рабочую версию сайта можно посмотреть по ссылке ](https://alexanderkaymanov.github.io/russian-travel/index.html)
+* [Рабочую версию сайта можно посмотреть по ссылке https://alexanderkaymanov.github.io/russian-travel/index.html](https://alexanderkaymanov.github.io/russian-travel/index.html)
 
 **Инструкция по применению.**
 
