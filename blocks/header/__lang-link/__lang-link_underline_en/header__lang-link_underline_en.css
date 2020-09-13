@@ -1,6 +1,5 @@
 .header__lang-link_underline_en {
   width: 30px;
-  height: 28px;
   text-decoration-line: none;
 }
 
@@ -11,7 +10,6 @@
 @media screen and (max-width: 767px) {
   .header__lang-link_underline_en {
     width: 22px;
-    height: 20px;
     padding-right: 18px;
   }
 }

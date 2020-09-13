@@ -3,7 +3,6 @@
   flex-direction: column;
   align-items: center;
   max-width: 984px;
-  min-height: 429px;
   margin: 0 auto;
   padding-top: 92px;
   color: #FFFFFF;
@@ -12,14 +11,12 @@
 @media screen and (max-width: 1279px) {
   .intro {
     max-width: 928px;
-    min-height: 429px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
     max-width: 720px;
-    min-height: 429px;
     padding-top: 88px;
   }
 }
@@ -27,7 +24,6 @@
 @media screen and (max-width: 767px) {
   .intro {
     max-width: 288px;
-    min-height: 754px;
     padding-top: 64px;
   }
 }
