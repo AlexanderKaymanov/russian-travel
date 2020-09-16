@@ -1,13 +1,15 @@
 .header__lang-link {
-display: flex;
 font-size: 24px;
 font-weight: normal;
 line-height: 111%;
-align-items: flex-end;
-margin: 0 0 3px 0;
-padding: 0;
-list-style-type: none;
 color: #FFFFFF;
+text-decoration: none;
+padding-left: 18px;
+}
+
+.header__lang-link:hover {
+  transition: 0.5s;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {

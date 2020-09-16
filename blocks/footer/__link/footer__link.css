@@ -1,5 +1,4 @@
 .footer__link {
-  min-width: 50px;
   font-weight: normal;
   font-size: 16px;
   line-height: 112%;
@@ -10,6 +9,7 @@
 }
 
 .footer__link:hover {
+  transition: 0.5s;
   opacity: 0.8;
 }
 

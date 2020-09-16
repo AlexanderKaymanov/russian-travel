@@ -4,6 +4,7 @@
   font-size: 18px;
   line-height: 163%;
   margin: 0 0 24px 0;
+  color: #FFFFFF;
 }
 
 .place__paragraph:last-of-type {
@@ -26,6 +27,5 @@
 @media screen and (max-width: 767px) {
   .place__paragraph {
     max-width: 288px;
-    font-size: 16px;
   }
 }
